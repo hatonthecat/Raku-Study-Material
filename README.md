@@ -16,3 +16,5 @@ https://greenteapress.com/wp/think-perl-6/
 https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf
 
 https://www.vim.org/download.php 
+
+https://start.me/p/m6L09M/my-raku-study
